@@ -12,7 +12,7 @@ V1 design is intended to be printed with an FDM machine (preferably in PETG). Th
 
 ![DIYUTM2](https://github.com/user-attachments/assets/ffe0cbb2-2ede-464f-a75a-1c7941e5bec5)
 
-The interface is written in Processing and can be compiled into an executable.
+The interface is written in Processing and can be compiled as an executable.
 
 ![2024-05-04 12-17-04](https://github.com/user-attachments/assets/ee8e0747-0707-4fb1-a490-35e48f3eb646)
 
